@@ -12,7 +12,7 @@ O projeto é dividido em dois módulos principais: um que modela um zoológico c
   - **Cachorro.java, Cavalo.java, Preguica.java**: Classes que estendem `Animal`, cada uma representando um tipo específico de animal com comportamentos únicos.
   - **Veterinario.java**: Classe que permite examinar os animais, invocando o método `emitirSom()` de forma polimórfica.
   - **Zoologico.java**: Classe que gerencia um conjunto de jaulas, cada uma contendo um animal, e permite percorrer essas jaulas, emitindo os sons dos animais e executando ações específicas como correr.
-  - **Main**: Classe principal para simulação do Zoológico
+  - **Main**: Classe principal para simulação do Zoológico.
 
 ### Pacote `empresa`
 - **Classes:**
